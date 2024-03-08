@@ -9,5 +9,5 @@ PlantOk is a dynamic platform that utilizes data analytics to revolutionize plan
 Website: https://plant--ok.web.app
 
 <h2>Contributors</h2>
-<a href="https://github.com/DavesarxKhushal" >@KDavesarXKhushal</a> <br>
+<a href="https://github.com/DavesarxKhushal" >@DavesarXKhushal</a> <br>
 <a href="https://github.com/AkulxSharma" >@AkulxSharma</a> 
