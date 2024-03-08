@@ -1,7 +1,6 @@
 <h1>PlantOk 🌱</h1>
 Transforming India's Plantation through Data-Driven Sustainability
 
-
 <h2>Overview</h2>
 PlantOk is a dynamic platform that utilizes data analytics to revolutionize plantation practices.
 
